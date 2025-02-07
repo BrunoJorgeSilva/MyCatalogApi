@@ -1,0 +1,673 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\helpers\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\helpers\\csvhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\ifilmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\ifilmesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\ifilmesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\resultpattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\services\\filmesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\services\\filmesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D1427-9317-4571-99BF-A3A689D8DD71}|MyCatalogApi.Application\\MyCatalogApi.Application.csproj|solutionrelative:mycatalogapi.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\entryobjects\\filmefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\entryobjects\\filmefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\entryobjects\\filmesfileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\entryobjects\\filmesfileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\entryobjects\\pokemonfileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\entryobjects\\pokemonfileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\entryobjects\\pokemonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\entryobjects\\pokemonfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\entryobjects\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\entryobjects\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\outputobjects\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\outputobjects\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\dtos\\outputobjects\\usercatalogocompletooutputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\dtos\\outputobjects\\usercatalogocompletooutputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\entities\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\entities\\filmeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\entities\\filmeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\entities\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\entities\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\entities\\pokemonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\entities\\pokemonuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.domain\\valueobjects\\filmecsvvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AC503-DB8A-4500-9212-7D4DEDF87DBE}|MyCatalogApi.Domain\\MyCatalogApi.Domain.csproj|solutionrelative:mycatalogapi.domain\\valueobjects\\filmecsvvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.infrastructure\\helper\\queryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|solutionrelative:mycatalogapi.infrastructure\\helper\\queryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|solutionrelative:mycatalogapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.tests\\filmesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|solutionrelative:mycatalogapi.tests\\filmesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.tests\\pokemonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|solutionrelative:mycatalogapi.tests\\pokemonservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C503ECE-EAED-4BD6-A609-E46004EC28AB}|MyCatalogApi.Tests\\MyCatalogApi.Tests.csproj|solutionrelative:mycatalogapi.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\controllers\\filmescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.infrastructure\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|solutionrelative:mycatalogapi.infrastructure\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalogapi.infrastructure\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A408DD-D701-4096-BCB3-2FEE1C95057C}|MyCatalogApi.Infrastructure\\MyCatalogApi.Infrastructure.csproj|solutionrelative:mycatalogapi.infrastructure\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\mycatalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\mycatalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|c:\\users\\dell\\desktop\\testes tecnicos\\datlo\\mycatalog\\mycatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A318524-1BB0-47F8-BAF2-395D2D4FC108}|MyCatalog\\MyCatalogApi.Api.csproj|solutionrelative:mycatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPokemonService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IPokemonService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IPokemonService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IPokemonService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IPokemonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:22:53.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PokemonService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\PokemonService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Services\\PokemonService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\PokemonService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Services\\PokemonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:48:49.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PokemonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\PokemonRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Infrastructure\\Repositories\\PokemonRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\PokemonRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Infrastructure\\Repositories\\PokemonRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:58:56.977Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyCatalog\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyCatalog\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:03:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "MyCatalog\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "MyCatalog\\Controllers\\PokemonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:23:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyCatalog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyCatalog\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T00:33:36.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "MyCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Program.cs",
+              "RelativeToolTip": "MyCatalog\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:04:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Helpers\\CsvHelper.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Helpers\\CsvHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Helpers\\CsvHelper.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Helpers\\CsvHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:23:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IFilmeRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IFilmeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IFilmeRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IFilmeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:05:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFilmesService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IFilmesService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IFilmesService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IFilmesService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IFilmesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:46:50.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPokemonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IPokemonRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IPokemonRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IPokemonRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IPokemonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:05:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:09:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:09:35.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\ResultPattern\\Result.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\ResultPattern\\Result.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\ResultPattern\\Result.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\ResultPattern\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:13:17.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilmesService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\FilmesService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Services\\FilmesService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\FilmesService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Services\\FilmesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:04:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "MyCatalogApi.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:10:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilmeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmeFilter.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmeFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmeFilter.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:11:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilmesFileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmesFileUpload.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmesFileUpload.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmesFileUpload.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\FilmesFileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:51:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PokemonFileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFileUpload.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFileUpload.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFileUpload.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:47:20.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PokemonFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFilter.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFilter.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\PokemonFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:44:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\UserDto.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\UserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\EntryObjects\\UserDto.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\EntryObjects\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:03:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PokemonDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\OutputObjects\\PokemonDto.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\OutputObjects\\PokemonDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\OutputObjects\\PokemonDto.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\OutputObjects\\PokemonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:07:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserCatalogoCompletoOutPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\OutputObjects\\UserCatalogoCompletoOutPutDto.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\DTOs\\OutputObjects\\UserCatalogoCompletoOutPutDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\DTOs\\OutputObjects\\UserCatalogoCompletoOutPutDto.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\DTOs\\OutputObjects\\UserCatalogoCompletoOutPutDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:26:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\Filme.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\Entities\\Filme.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\Filme.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\Entities\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:30:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FilmeUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\FilmeUser.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\Entities\\FilmeUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\FilmeUser.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\Entities\\FilmeUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:26:36.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\Pokemon.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\Entities\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\Pokemon.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\Entities\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:25:10.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PokemonUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\PokemonUser.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\Entities\\PokemonUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\PokemonUser.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\Entities\\PokemonUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:19:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:19:56.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FilmeCsvVO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\ValueObjects\\FilmeCsvVO.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Domain\\ValueObjects\\FilmeCsvVO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Domain\\ValueObjects\\FilmeCsvVO.cs",
+              "RelativeToolTip": "MyCatalogApi.Domain\\ValueObjects\\FilmeCsvVO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:11:22.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QueryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Helper\\QueryHelper.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Infrastructure\\Helper\\QueryHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Helper\\QueryHelper.cs",
+              "RelativeToolTip": "MyCatalogApi.Infrastructure\\Helper\\QueryHelper.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:48:00.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:08:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FilmesServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\FilmesServiceTests.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Tests\\FilmesServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\FilmesServiceTests.cs",
+              "RelativeToolTip": "MyCatalogApi.Tests\\FilmesServiceTests.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAD4v1UAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T22:58:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PokemonServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\PokemonServiceTests.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Tests\\PokemonServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\PokemonServiceTests.cs",
+              "RelativeToolTip": "MyCatalogApi.Tests\\PokemonServiceTests.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:35:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Tests\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Tests\\UserServiceTests.cs",
+              "RelativeToolTip": "MyCatalogApi.Tests\\UserServiceTests.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAUwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T23:27:15.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilmesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\FilmesController.cs",
+              "RelativeDocumentMoniker": "MyCatalog\\Controllers\\FilmesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\Controllers\\FilmesController.cs",
+              "RelativeToolTip": "MyCatalog\\Controllers\\FilmesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:02:09.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\FilmeRepository.cs",
+              "RelativeDocumentMoniker": "MyCatalogApi.Infrastructure\\Repositories\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalogApi.Infrastructure\\Repositories\\FilmeRepository.cs",
+              "RelativeToolTip": "MyCatalogApi.Infrastructure\\Repositories\\FilmeRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAqwHcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:04:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\appsettings.json",
+              "RelativeDocumentMoniker": "MyCatalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\appsettings.json",
+              "RelativeToolTip": "MyCatalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T00:38:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MyCatalog.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\MyCatalog.http",
+              "RelativeDocumentMoniker": "MyCatalog\\MyCatalog.http",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Testes Tecnicos\\Datlo\\MyCatalog\\MyCatalog\\MyCatalog.http",
+              "RelativeToolTip": "MyCatalog\\MyCatalog.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-06T00:41:12.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

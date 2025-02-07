@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\bin\Debug\net9.0\MyCatalogApi.Application.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\bin\Debug\net9.0\MyCatalogApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\bin\Debug\net9.0\MyCatalogApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\refint\MyCatalogApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\ref\MyCatalogApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\bin\Debug\net9.0\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\bin\Debug\net9.0\MyCatalogApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalogApi.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Application\obj\Debug\net9.0\MyCatalo.E4AFA1DD.Up2Date

@@ -1,0 +1,296 @@
+[
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.FilmesController",
+    "Method": "FilmesDaMarvelPorUsuarioId",
+    "RelativePath": "api/Filmes/FilmesDaMarvelPorUsuarioId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.FilmesController",
+    "Method": "FiltrarFilmes",
+    "RelativePath": "api/Filmes/FiltrarFilmes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Diretor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TempoDeFilme",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ano",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "AtoresPrincipais",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Genero",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ClassificacaoIndicativa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrcamentoProducaoMilhao",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "BilheteriaMundialMilhao",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Sinopse",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PremiosEIndicacoes",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Roteiristas",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CronologiaNoUniverso",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CameosOuParticipacoes",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RecepcaoDaCritica",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CuriosidadeDeProducao",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrilhaSonora",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EstudioProducao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.FilmesController",
+    "Method": "UploadFilmesCsv",
+    "RelativePath": "api/Filmes/UploadFilmesCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.PokemonController",
+    "Method": "FiltrarPokemons",
+    "RelativePath": "api/Pokemon/FiltrarPokemons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PokemonId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "HP",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Ataque",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Defesa",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "AtaqueEspecial",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DefesaEspecial",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Velocidade",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.PokemonController",
+    "Method": "PokemonsCapturadorPorUsuarioId",
+    "RelativePath": "api/Pokemon/PokemonsCapturadosPorUserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.PokemonController",
+    "Method": "UploadPokemonsCapturadosCsv",
+    "RelativePath": "api/Pokemon/UploadPokemonsCapturadosCsv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.UserController",
+    "Method": "AdicionarUsuario",
+    "RelativePath": "api/User/AdicionarNovoUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "MyCatalogApi.Domain.DTOs.EntryObjects.NovoUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.UserController",
+    "Method": "BuscarUsuariosPorFiltro",
+    "RelativePath": "api/User/BuscarUsuariosPorFiltro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "apelido",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.UserController",
+    "Method": "CatalogoDoUsuario",
+    "RelativePath": "api/User/CatalogoDoUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyCatalogApi.Api.Controllers.UserController",
+    "Method": "TodosOsUsuarios",
+    "RelativePath": "api/User/TodosOsUsuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

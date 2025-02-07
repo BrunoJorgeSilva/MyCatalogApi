@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\bin\Debug\net9.0\MyCatalogApi.Domain.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\bin\Debug\net9.0\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\bin\Debug\net9.0\MyCatalogApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\refint\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\ref\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Domain\obj\Debug\net9.0\MyCatalogApi.Domain.csproj.AssemblyReference.cache

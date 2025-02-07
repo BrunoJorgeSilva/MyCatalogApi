@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>f0879217-d35f-4278-98c1-0d5ba1c67715</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyCatalogApi.Application\MyCatalogApi.Application.csproj" />
+    <ProjectReference Include="..\MyCatalogApi.Domain\MyCatalogApi.Domain.csproj" />
+    <ProjectReference Include="..\MyCatalogApi.Infrastructure\MyCatalogApi.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Infrastructure.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Infrastructure.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Infrastructure.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Application.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Domain.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Application.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\bin\Debug\net9.0\MyCatalogApi.Domain.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalo.5B732229.Up2Date
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\refint\MyCatalogApi.Infrastructure.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\MyCatalogApi.Infrastructure.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Datlo\MyCatalog\MyCatalogApi.Infrastructure\obj\Debug\net9.0\ref\MyCatalogApi.Infrastructure.dll
